@@ -31,28 +31,24 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Skyline Furniture",
+    description: "Collaboration to create a beginner friendly article with ReactJS",
+    url: "https://skyline-furniture.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Portfolio",
+    description: "Personal Portfolio",
+    url: "https://muskanj09.github.io/Portfolio/",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Pintrest Clone",
+    description: "Created Pintrest Clone with Html, CSS, JS and Gsap",
+    url: "https://muskanj09.github.io/Pintrest/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "OmniFood",
+    description: "Food delivery app with Html, CSS and JS",
+    url: "https://muskanj09.github.io/omniFoodd/",
   },
 ];
 
